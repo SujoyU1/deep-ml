@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:27:30.588Z",
+  "generated_at": "2026-09-23T08:41:28.114Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
       "first_solved_at": "2026-09-23T07:27:28.759Z",
       "last_pushed_at": "2026-09-23T07:27:28.759Z"
+    },
+    "problem:1123": {
+      "kind": "problem",
+      "id": "1123",
+      "title": "Top-N Most Profitable Companies with DENSE_RANK",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1123",
+      "path": "problems/1123-top-n-most-profitable-companies-with-dense-rank",
+      "first_solved_at": "2026-09-23T08:41:26.071Z",
+      "last_pushed_at": "2026-09-23T08:41:26.071Z",
+      "language": "sql",
+      "lines": 16
     }
   }
 }
