@@ -12,4 +12,5 @@ table2 as(
 
 select company, total_profit as profit from table2
 where rnk<4
+ORDER BY total_profit DESC, company ASC
 
