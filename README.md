@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 19 problems · 0 labs · 2 math
+**22** solved · 20 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-09-23 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-09-24 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-09-25 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Rank Rows Within Partitions Using Window Functions](https://www.deep-ml.com/problems/1114) | medium | 2026-09-25 | [solution](problems/1114-rank-rows-within-partitions-using-window-functions) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-09-25 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Top-N Most Profitable Companies with DENSE_RANK](https://www.deep-ml.com/problems/1123) | medium | 2026-09-23 | [solution](problems/1123-top-n-most-profitable-companies-with-dense-rank) |
 
