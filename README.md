@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 24 problems · 0 labs · 2 math
+**27** solved · 25 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-09-23 | [solution](problems/0246-birthday-problem-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-09-24 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
+| [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-09-25 | [solution](problems/1118-days-warmer-than-the-previous-day) |
 | [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-09-25 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
 | [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-09-24 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-09-25 | [solution](problems/1113-employees-earning-more-than-their-managers) |
