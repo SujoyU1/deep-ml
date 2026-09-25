@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:29:58.250Z",
+  "generated_at": "2026-09-25T23:38:17.162Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -360,6 +360,19 @@
       "last_pushed_at": "2026-09-25T23:29:55.977Z",
       "language": "sql",
       "lines": 12
+    },
+    "problem:1126": {
+      "kind": "problem",
+      "id": "1126",
+      "title": "Employees Earning Above Their Department Average (Correlated Subquery)",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1126",
+      "path": "problems/1126-employees-earning-above-their-department-average-correlated-subquery",
+      "first_solved_at": "2026-09-25T23:38:13.115Z",
+      "last_pushed_at": "2026-09-25T23:38:13.115Z",
+      "language": "sql",
+      "lines": 6
     }
   }
 }
