@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:57:55.224Z",
+  "generated_at": "2026-09-25T16:58:45.471Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -292,7 +292,7 @@
       "url": "https://www.deep-ml.com/problems/1115",
       "path": "problems/1115-month-over-month-percentage-change-with-lag",
       "first_solved_at": "2026-09-25T16:57:37.829Z",
-      "last_pushed_at": "2026-09-25T16:57:53.445Z",
+      "last_pushed_at": "2026-09-25T16:58:43.633Z",
       "language": "sql",
       "lines": 8
     }
