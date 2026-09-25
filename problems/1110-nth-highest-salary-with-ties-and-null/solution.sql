@@ -3,4 +3,5 @@ with table1 as(
     select *, dense_rank() over (order by salary desc) as rnk 
     from employee
 )
-select distinct(salary) as nth_salary from table1 where rnk=3
+select max(case when rnk=3 then salary end) as nth_salary 
+from table1 where rnk=3
