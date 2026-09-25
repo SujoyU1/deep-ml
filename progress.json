@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:29:31.613Z",
+  "generated_at": "2026-09-25T23:29:58.250Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -357,9 +357,9 @@
       "url": "https://www.deep-ml.com/problems/1119",
       "path": "problems/1119-cohort-retention-first-login-and-consecutive-day-logins",
       "first_solved_at": "2026-09-25T23:29:29.663Z",
-      "last_pushed_at": "2026-09-25T23:29:29.663Z",
+      "last_pushed_at": "2026-09-25T23:29:55.977Z",
       "language": "sql",
-      "lines": 25
+      "lines": 12
     }
   }
 }
