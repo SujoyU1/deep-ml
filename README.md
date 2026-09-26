@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 29 problems · 0 labs · 2 math
+**32** solved · 30 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-09-25 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Rank Rows Within Partitions Using Window Functions](https://www.deep-ml.com/problems/1114) | medium | 2026-09-25 | [solution](problems/1114-rank-rows-within-partitions-using-window-functions) |
 | [Running Total and Moving Average with Window Frames](https://www.deep-ml.com/problems/1116) | medium | 2026-09-25 | [solution](problems/1116-running-total-and-moving-average-with-window-frames) |
+| [Salary Difference Between Departments with Conditional Aggregation](https://www.deep-ml.com/problems/1124) | medium | 2026-09-26 | [solution](problems/1124-salary-difference-between-departments-with-conditional-aggregation) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-09-25 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Top-N Most Profitable Companies with DENSE_RANK](https://www.deep-ml.com/problems/1123) | medium | 2026-09-23 | [solution](problems/1123-top-n-most-profitable-companies-with-dense-rank) |
 | [Top-N Percent by Group with NTILE](https://www.deep-ml.com/problems/1125) | medium | 2026-09-26 | [solution](problems/1125-top-n-percent-by-group-with-ntile) |
